@@ -100,7 +100,7 @@ Upload your .png maps
 Generate & view 3D terrains inline
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python 3.10
 
 PyTorch 1.13
@@ -113,6 +113,6 @@ Matplotlib, PyVista
 
 OpenSimplex
 
-✨ Author : AIMaster17
+## ✨ Author : AIMaster17
  
 Feel free to ⭐ the project & open issues!
