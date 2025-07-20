@@ -99,6 +99,7 @@ streamlit run app.py
 Upload your .png maps
 Generate & view 3D terrains inline
 
+---
 
 ## 🛠️ Tech Stack
 Python 3.10
